@@ -368,3 +368,7 @@ to talk about the future of this library and news extraction in general!
 .. _`requests`: https://github.com/kennethreitz/requests
 .. _`Parse.ly`: http://parse.ly
 .. _`It takes only one click`: https://tracking.gitads.io/?campaign=gitads&repo=newspaper&redirect=gitads.io
+
+
+.
+//THANK YOU LOVE FROM PH <3//
